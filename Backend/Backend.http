@@ -1,6 +1,9 @@
 @Backend_HostAddress = http://localhost:5079
 
+### Get default 5-day weather forecast
 GET {{Backend_HostAddress}}/weatherforecast/
 Accept: application/json
 
-###
+### Get 7-day weather forecast for a specific city
+GET {{Backend_HostAddress}}/weatherforecast/?city=Tokyo&days=7
+Accept: application/json
