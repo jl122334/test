@@ -6,3 +6,17 @@
 Backend/.vs/Backend.slnx/v18/DocumentLayout.json
 Backend/.vs/Backend.slnx/v18/.suo
 Backend/.vs/Backend.slnx/FileContentIndex/1bbcf8cb-4a32-4afc-a17c-3cc2d6d527ec.vsidx
+/Backend/.vs
+/Backend/obj
+/Backend/obj
+/Backend/obj
+Backend/obj/Backend.csproj.nuget.dgspec.json
+Backend/obj/Backend.csproj.nuget.g.props
+Backend/obj/Debug/net10.0/Backend.AssemblyInfo.cs
+Backend/obj/Debug/net10.0/Backend.AssemblyInfoInputs.cache
+Backend/obj/Debug/net10.0/Backend.assets.cache
+Backend/obj/Debug/net10.0/Backend.csproj.AssemblyReference.cache
+Backend/obj/Debug/net10.0/Backend.GeneratedMSBuildEditorConfig.editorconfig
+Backend/obj/Debug/net10.0/rpswa.dswa.cache.json
+Backend/obj/project.assets.json
+Backend/obj/project.nuget.cache
