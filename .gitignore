@@ -20,3 +20,5 @@ Backend/obj/Debug/net10.0/Backend.GeneratedMSBuildEditorConfig.editorconfig
 Backend/obj/Debug/net10.0/rpswa.dswa.cache.json
 Backend/obj/project.assets.json
 Backend/obj/project.nuget.cache
+Backend/obj/Debug/net10.0/Backend.AssemblyInfoInputs.cache
+Backend/obj/Debug/net10.0/Backend.AssemblyInfo.cs
